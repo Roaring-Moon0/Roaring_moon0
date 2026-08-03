@@ -8,7 +8,7 @@ I'm an AI and full stack developer who enjoys turning messy ideas into polished 
 
 * 🌍  I'm based in Chandigarh
 * ✉️  You can contact me at [xparyan68@gmail.com](mailto:xparyan68@gmail.com)
-* 🚀  I'm currently working on [Istm skills](http://istmskils.vercel.app)
+* 🚀  I'm currently working on [Istm skills](http://istmskills.vercel.app)
 * 🧠  I'm currently learning AI Agents, Context Engineering, RAG, FastAPI, and advanced system design.
 * 👥  I'm looking to collaborate on AI products, open source, developer tools, full stack apps, and creative web experiences.
 * 💬  Ask me about If it feels boring, I'll probably redesign it.
